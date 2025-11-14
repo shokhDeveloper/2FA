@@ -1,0 +1,345 @@
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Server is running on http://127.0.0.1:4000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Server is running on http://127.0.0.1:4000"}
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+Daraja: [object Object]: Xabar: undefined
+Daraja: [object Object]: Xabar: undefined
+Daraja: [object Object]: Xabar: undefined
+Daraja: [31merror[39m: Xabar: [31mNimadir xato ketdi[39m
+Daraja: [32minfo[39m: Xabar: [32mMongoDB connected successfully[39m
+Daraja: [32minfo[39m: Xabar: [32mServer is running on http://127.0.0.1:4000[39m
+Daraja: [31merror[39m: Xabar: [31mNimadir xato ketdi[39m
+Daraja: [32minfo[39m: Xabar: [32mMongoDB connected successfully[39m
+Daraja: [32minfo[39m: Xabar: [32mServer is running on http://127.0.0.1:4000[39m
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+error: Nimadir xato ketdi
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+debug: REGISTER attempt with data: {"first_name":"Dilshodbek","last_name":"Payzullayev","phone":"+998932977711","email":"payzullayevdilshodbek13@gmail.com","password":"dilshodbek123"}
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+debug: REGISTER attempt with data: {"first_name":"Dilshodbek","last_name":"Payzullayev","phone":"+998932977711","email":"payzullayevdilshodbek13@gmail.com","password":"dilshodbek123"}
+warn: REGISTER failed: email already exists: payzullayevdilshodbek13@gmail.com
+debug: REGISTER attempt with data: {"first_name":"Dilshodbek","last_name":"Payzullayev","phone":"+998932977711","email":"payzullayevdilshodbek13@gmail.com","password":"dilshodbek123"}
+info: New user registered: payzullayevdilshodbek13@gmail.com
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+debug: REGISTER attempt with data: {"first_name":"Dilshodbek","last_name":"Payzullayev","phone":"+998932977711","email":"payzullayevdilshodbek13@gmail.com","password":"dilshodbek123"}
+info: New user registered: payzullayevdilshodbek13@gmail.com
+info: Code sent to email payzullayevdilshodbek13@gmail.com
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+debug: VERIFY request: {"email":"payzullayevdilshodbek13@gmail.com","otp":"988978"}
+warn: VERIFY failed: invalid expired for payzullayevdilshodbek13@gmail.com
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+debug: RESEND_OTP attempt: {"email":"payzullayevdilshodbek13@gmail.com"}
+info: Code sent to email payzullayevdilshodbek13@gmail.com
+debug: VERIFY request: {"email":"payzullayevdilshodbek13@gmail.com","otp":"219157"}
+info: Email has been successfully verified: payzullayevdilshodbek13@gmail.com
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
+info: MongoDB connected successfully
+info: Server is running on http://127.0.0.1:4000
